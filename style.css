@@ -1,0 +1,50 @@
+.introduction{
+    background-color: aqua;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+.logo{
+    float: right;
+    margin-top: 10px;
+    margin-right: 20px;
+
+}
+
+.myself{
+    background-color: aqua;
+    
+}
+.color{
+    background-color: aqua;
+}
+.myimage{
+    border-radius: 50%;
+}
+.skill{
+    background-color: aqua;
+}
+.float {
+    margin-left: 330px;
+}
+.touch{
+    margin-left: 410px;
+    font-weight: 800;
+    
+}
+.button{
+    width: 100px;
+    display: block;
+    margin: auto;
+    background-color: red;
+    
+    
+}
+.back{
+    background-color: aqua;
+    
+}
+
+.foot{
+    background-color: rgb(253, 152, 0);
+    margin: 0%;
+}
